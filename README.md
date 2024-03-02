@@ -1,4 +1,4 @@
-# Csss
+#Author - @satyamshorrf
 Create a website css 
 *{
     margin: 0;
